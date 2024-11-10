@@ -1,0 +1,15 @@
+{
+  "name": "SockerMessageRelayServer",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "@eslint/js": "^9.8.0",
+    "eslint": "^9.8.0",
+    "globals": "^15.9.0",
+    "prettier": "^3.0.2"
+  }
+}
